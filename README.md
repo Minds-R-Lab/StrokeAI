@@ -43,9 +43,11 @@ A Compilation of References to AI programs for Stroke Diagnosis.
 - [Multi-Receptive-Field CNN for Semantic Segmentation of Medical Images](https://ieeexplore.ieee.org/abstract/document/9166618)
 - [DeepNeuro: an open-source deep learning toolbox for neuroimaging](https://link.springer.com/article/10.1007/s12021-020-09477-5)
 - [Multi-Feature Analysis for Automated Brain Stroke Classification Using Weighted Gaussian Naïve Bayes Classifier](https://www.worldscientific.com/doi/abs/10.1142/S0218126621501784)
+- [Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study](https://arxiv.org/html/2403.17177v1)
 
 
 
 ## Review papers 
 - [Deep learning models for ischemic stroke lesion segmentation in medical images: A survey](https://www.sciencedirect.com/science/article/pii/S0010482524005936)
 - [Stroke Lesion Segmentation and Deep Learning: A Comprehensive Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10813717/)
+

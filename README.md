@@ -22,19 +22,8 @@ A Compilation of References to AI programs for Stroke Diagnosis.
 
   
 ## Papers
-- [Segmentation of stroke lesions using transformers-augmented
-MRI analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26803)  Accurate segmentation of chronic stroke lesions from mono-spectral magnetic resonance imaging scans (e.g., T1-weighted images) is a difficult task due to the arbitrary
-shape, complex texture, variable size and intensities, and varied locations of the
-lesions. Due to this inherent spatial heterogeneity, existing machine learning methods
-have shown moderate performance for chronic lesion delineation. In this study, we
-introduced: (1) a method that integrates transformers' deformable feature attention
-mechanism with convolutional deep learning architecture to improve the accuracy and
-generalizability of stroke lesion segmentation, and (2) an ecological data augmentation
-technique based on inserting real lesions into intact brain regions. Our combination of
-these two approaches resulted in a significant increase in segmentation performance,
-with a Dice index of 0.82 (±0.39), outperforming the existing methods trained and
-tested on the same Anatomical Tracings of Lesions After Stroke (ATLAS) 2022 dataset.
-Our method performed relatively well even for cases with small stroke lesions. We validated the robustness of our method through an ablation study and by testing it on
-new unseen brain scans from the Ischemic Stroke Lesion Segmentation (ISLES) 2015
-dataset. Overall, our proposed approach of transformers with ecological data augmentation offers a robust way to delineate chronic stroke lesions with clinically relevant
-accuracy. Our method can be extended to other challenging tasks that require automated detection and segmentation of diverse brain abnormalities from clinical scans.
+- [Segmentation of stroke lesions using transformers-augmented MRI analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26803)  
+- [Application of Deep Learning Method on Ischemic Stroke Lesion Segmentation](https://link.springer.com/article/10.1007/s12204-021-2273-9)
+- [Brain stroke classification and segmentation using encoder-decoder based deep convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S001048252200676X casa_token=qCB2Xuh7r5wAAAAA:yPcNbf6uZ_mqa3AlEqAmCbcbGD8ijBN93x7OigP45qcMnPqJLm2prJavU3sroSyDxo6HXdtPGLg)
+- [CSNet: A new DeepNet framework for ischemic stroke lesion segmentation](https://www.sciencedirect.com/science/article/pii/S0169260719324022?casa_token=rAO9pyYBzUgAAAAA:U1srWb2UdQHvErvIg-FJV8bIPEZettF0sB1KkeeXoBie4vpaFC7VEBrjvsJscOGXXzlXVJhShUI)
+- [Improvement of automatic ischemic stroke lesion segmentation in CT perfusion maps using a learned deep neural network](https://www.sciencedirect.com/science/article/pii/S0010482521006430?casa_token=P8QiEV4Rr3YAAAAA:wA60yke6QBMfRdHk9JIEQFUcW88N7EJzQTg3YHj-ARjpe-IEfd8BdjFANLll1Et-n0eXoPXpDMM)

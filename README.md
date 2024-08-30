@@ -35,3 +35,4 @@ A Compilation of References to AI programs for Stroke Diagnosis.
 - [Attention convolutional neural network for accurate segmentation and quantification of lesions in ischemic stroke disease](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301559)
 - [Acute and sub-acute stroke lesion segmentation from multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0169260719305899)
 - [Deep convolutional neural network for automatically segmenting acute ischemic stroke lesion in multi-modality MRI](https://link.springer.com/article/10.1007/s00521-019-04096-x)
+- [Machine Learning for Detecting Early Infarction in Acute Stroke with Non–Contrast-enhanced CT](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191193)

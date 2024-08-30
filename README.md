@@ -7,6 +7,6 @@ A Compilation of References to AI programs for Stroke Diagnosis.
 - [BRATS Dataset](https://www.med.upenn.edu/cbica/brats2020/data.html), A dataset mostly utilized for segmenting brain tumors, but is sometimes use for stroke segmentation.
 - [NIfTI-1](https://nifti.nimh.nih.gov/nifti-1/data), Neuroimaging Informatics Technology Initiative
 
-  ## Models
+## Models
 
   

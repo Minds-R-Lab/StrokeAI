@@ -16,3 +16,4 @@ A Compilation of References to AI programs for Stroke Diagnosis.
 - [ResNet](https://arxiv.org/abs/1512.03385) A deep neural network architecture that uses residual learning with shortcut connections to effectively train very deep networks. (Has variants such as ResU-Net)
 
   
+## Papers

@@ -36,6 +36,13 @@ A Compilation of References to AI programs for Stroke Diagnosis.
 - [Acute and sub-acute stroke lesion segmentation from multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0169260719305899)
 - [Deep convolutional neural network for automatically segmenting acute ischemic stroke lesion in multi-modality MRI](https://link.springer.com/article/10.1007/s00521-019-04096-x)
 - [Machine Learning for Detecting Early Infarction in Acute Stroke with Non–Contrast-enhanced CT](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191193)
+- [EIS-Net: Segmenting early infarct and scoring ASPECTS simultaneously on non-contrast CT of patients with acute ischemic stroke](https://www.sciencedirect.com/science/article/abs/pii/S136184152100030X)
+- [Brain SegNet: 3D local refinement network for brain lesion segmentation](https://link.springer.com/article/10.1186/s12880-020-0409-2)
+- [RFDCR: Automated brain lesion segmentation using cascaded random forests with dense conditional random fields](https://www.sciencedirect.com/science/article/pii/S1053811920301075)
+- [Brain tumor detection and classification using machine learning: a comprehensive survey](https://link.springer.com/article/10.1007/s40747-021-00563-y)
+- [Multi-Receptive-Field CNN for Semantic Segmentation of Medical Images](https://ieeexplore.ieee.org/abstract/document/9166618)
+- [DeepNeuro: an open-source deep learning toolbox for neuroimaging](https://link.springer.com/article/10.1007/s12021-020-09477-5)
+- [Multi-Feature Analysis for Automated Brain Stroke Classification Using Weighted Gaussian Naïve Bayes Classifier](https://www.worldscientific.com/doi/abs/10.1142/S0218126621501784)
 
 
 

@@ -24,6 +24,6 @@ A Compilation of References to AI programs for Stroke Diagnosis.
 ## Papers
 - [Segmentation of stroke lesions using transformers-augmented MRI analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26803)  
 - [Application of Deep Learning Method on Ischemic Stroke Lesion Segmentation](https://link.springer.com/article/10.1007/s12204-021-2273-9)
-- [Brain stroke classification and segmentation using encoder-decoder based deep convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S001048252200676X casa_token=qCB2Xuh7r5wAAAAA:yPcNbf6uZ_mqa3AlEqAmCbcbGD8ijBN93x7OigP45qcMnPqJLm2prJavU3sroSyDxo6HXdtPGLg)
+- [Brain stroke classification and segmentation using encoder-decoder based deep convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S001048252200676Xcasa_token=qCB2Xuh7r5wAAAAA:yPcNbf6uZ_mqa3AlEqAmCbcbGD8ijBN93x7OigP45qcMnPqJLm2prJavU3sroSyDxo6HXdtPGLg)
 - [CSNet: A new DeepNet framework for ischemic stroke lesion segmentation](https://www.sciencedirect.com/science/article/pii/S0169260719324022?casa_token=rAO9pyYBzUgAAAAA:U1srWb2UdQHvErvIg-FJV8bIPEZettF0sB1KkeeXoBie4vpaFC7VEBrjvsJscOGXXzlXVJhShUI)
 - [Improvement of automatic ischemic stroke lesion segmentation in CT perfusion maps using a learned deep neural network](https://www.sciencedirect.com/science/article/pii/S0010482521006430?casa_token=P8QiEV4Rr3YAAAAA:wA60yke6QBMfRdHk9JIEQFUcW88N7EJzQTg3YHj-ARjpe-IEfd8BdjFANLll1Et-n0eXoPXpDMM)

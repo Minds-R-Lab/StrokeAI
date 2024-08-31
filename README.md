@@ -3,6 +3,7 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 ![image](https://github.com/user-attachments/assets/e5063933-6b6d-40ef-9f6f-ee818473049f)
 
 ## Datasets
+![image](https://github.com/user-attachments/assets/734ac193-45b0-431c-b4dd-e248367491d3)
 - [ISLES Challenge Datset](https://isles22.grand-challenge.org/dataset/), A collection of medical imaging data focused on the segmentation of ischemic stroke lesions in brain MRI scans. It is widely used for developing and evaluating machine learning models in the field of medical image analysis, particularly for stroke diagnosis and treatment planning.
 - [AISD Dataset](https://github.com/GriffinLiang/AISD) Contains 397 Non-Contrast-enhanced CT (NCCT) scans of acute ischemic stroke with the interval from symptom onset to CT less than 24 hours.
 - [ATLAS Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/atlas.html), Anatomical Tracings of Lesions After Stroke, A dataset containing manual segmentations of stroke lesions on T1-weighted MRI scans from chronic stroke patients.
@@ -12,6 +13,8 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 - [TopCoW Challenge Data](https://topcow24.grand-challenge.org/data/) The challenge data cohort was composed of patients admitted to the Stroke Center of the University Hospital Zurich (USZ) in 2018 and 2019. The inclusion criteria for the challenge data were: 1) both MRA and CTA scans were available for that patient; 2) at least the MRA or CTA allowed for an assessment of the CoW anatomy. The patients of the challenge cohort were admitted for or recovering from a stroke-related neurological disorder, including ischemic stroke, transient ischemic attack, stroke mimic, retinal infarct or amaurosis fugax, intracerebral hemorrhage, and cerebral sinus vein thrombosis.
 
 ## Architectures
+![image](https://github.com/user-attachments/assets/101b9f48-62f6-484f-a603-1222a86e6249)
+
 - [DeepMedic](https://github.com/deepmedic/deepmedic)  A deep multi-scale 3D convolutional neural network (CNN) designed for brain lesion segmentation, including stroke lesions.
 - [ADNET](https://github.com/biomedical-data-analysis-laboratory/adnet-for-ais-segmentation) "Self-supervised training mechanism that is tailored to the task of ischemic stroke lesion segmentation by exploiting color-coded parametric maps"
 - [SEAN](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_41) A symmetry enhanced attention network for acute ischemic infarct segmentation. "Efficiently captures context information from the opposite side of the image by estimating long-range dependencies."

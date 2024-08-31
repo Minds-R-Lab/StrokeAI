@@ -23,6 +23,7 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 - [Mask DINO](https://github.com/IDEA-Research/MaskDINO) This repository is the official implementation of the Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation (DINO pronounced `daɪnoʊ' as in dinosaur). Our code is based on detectron2. detrex version is opensource simultaneously.
 - [DRA-NET](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301559) "An advanced deep CNN architecture that aims to improve predictive performance and that allows for accurate and simultaneous prediction of both lesion types."
 - [W-NET](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011399) "A boundary-enhanced segmentation network for stroke lesions"
+- [SAN-NET](https://www.sciencedirect.com/science/article/pii/S0010482523001828) "Learning generalization to unseen sites for stroke lesion segmentation with self-adaptive normalization"
 
   
 ## Papers

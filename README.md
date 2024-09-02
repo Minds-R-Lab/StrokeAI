@@ -3,6 +3,7 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 ![image](https://github.com/user-attachments/assets/e5063933-6b6d-40ef-9f6f-ee818473049f)
 
 ## Datasets
+![image](https://github.com/user-attachments/assets/734ac193-45b0-431c-b4dd-e248367491d3)
 - [ISLES Challenge Datset](https://isles22.grand-challenge.org/dataset/), A collection of medical imaging data focused on the segmentation of ischemic stroke lesions in brain MRI scans. It is widely used for developing and evaluating machine learning models in the field of medical image analysis, particularly for stroke diagnosis and treatment planning.
 - [AISD Dataset](https://github.com/GriffinLiang/AISD) Contains 397 Non-Contrast-enhanced CT (NCCT) scans of acute ischemic stroke with the interval from symptom onset to CT less than 24 hours.
 - [ATLAS Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/atlas.html), Anatomical Tracings of Lesions After Stroke, A dataset containing manual segmentations of stroke lesions on T1-weighted MRI scans from chronic stroke patients.
@@ -32,62 +33,31 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 
   
 ## Papers
-**Segmentation of stroke lesions using transformers-augmented MRI analysis.** [24th April, 2024].  
-**Zhang, Hanwei, Ying Zhu, Dan Wang, Lijun Zhang, Tianxiang Chen, Ziyang Wang, and Zi Ye.**  
-[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26803)
-
-**Application of Deep Learning Method on Ischemic Stroke Lesion Segmentation.** [29th April, 2024].  
-**Xu, Rui, Shu Yang, Yihui Wang, Bo Du, and Hao Chen.**  
-[PDF](https://link.springer.com/article/10.1007/s12204-021-2273-9)
-
-**Brain stroke classification and segmentation using encoder-decoder based deep convolutional neural networks.** [7th May, 2024].  
-**Liu, Xiao, Chenxu Zhang, and Lei Zhang.**  
-[PDF](https://www.sciencedirect.com/science/article/pii/S001048252200676Xcasa_token=qCB2Xuh7r5wAAAAA:yPcNbf6uZ_mqa3AlEqAmCbcbGD8ijBN93x7OigP45qcMnPqJLm2prJavU3sroSyDxo6HXdtPGLg)
-
-**CSNet: A new DeepNet framework for ischemic stroke lesion segmentation.** [14th May, 2024].  
-**Zhu, Qinfeng, Yuan Fang, Yuanzhi Cai, Cheng Chen, and Lei Fan.**  
-[PDF](https://www.sciencedirect.com/science/article/pii/S0169260719324022?casa_token=rAO9pyYBzUgAAAAA:U1srWb2UdQHvErvIg-FJV8bIPEZettF0sB1KkeeXoBie4vpaFC7VEBrjvsJscOGXXzlXVJhShUI)
-
-**Improvement of automatic ischemic stroke lesion segmentation in CT perfusion maps using a learned deep neural network.** [24th April, 2024].  
-**Patro, Badri Narayana, and Vijay Srinivas Agneeswaran.**  
-[PDF](https://www.sciencedirect.com/science/article/pii/S0010482521006430?casa_token=P8QiEV4Rr3YAAAAA:wA60yke6QBMfRdHk9JIEQFUcW88N7EJzQTg3YHj-ARjpe-IEfd8BdjFANLll1Et-n0eXoPXpDMM)
-
-**Deep learning-based detection and segmentation of diffusion abnormalities in acute ischemic stroke.** [5th June, 2024].  
-**Moein Heidari, Sina Ghorbani Kolahi, Sanaz Karimijafarbigloo, Bobby Azad, Afshin Bozorgpour, Soheila Hatami, Reza Azad, Ali Diba, Ulas Bagci, Dorit Merhof, Ilker Hacihaliloglu.**  
-[PDF](https://www.nature.com/articles/s43856-021-00062-8)
-
-**Detection of ischemic stroke lesions in CT images using a deep neural network.** [12th June, 2024].  
-**Liang, Tiancheng, Shuai Zhao, Yunxiang Li, and Xin Li.**  
-[PDF](https://www.sciencedirect.com/science/article/pii/S0010482523001842?casa_token=wZZ5GHhQJccAAAAA:WVf_qIRJmHQLx0PyAF6MsoZgPUCXYd25zq_sHpVCE-J-cQdtxAgvViBlX7yUuKjIRIDPaZ0prHs)
-
-**Ensemble-based approach for ischemic stroke lesion segmentation in brain MRI images.** [19th June, 2024].  
-**Cai, Cheng, Weiwei Du, Wenyue Xu, and Yuan Fang.**  
-[PDF](https://link.springer.com/article/10.1007/s00415-023-11674-7)
-
-**Automated stroke lesion segmentation on multi-modal MRI using deep convolutional neural networks.** [22nd June, 2024].  
-**Zhou, Xiang, Tianxiang Chen, Weiwei Du, and Jianwei Yin.**  
-[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26951)
-
-**Segmentation of ischemic stroke lesions on MRI using a cascaded convolutional neural network.** [28th June, 2024].  
-**Li, Zheng, Lijun Zhang, Tianxiang Chen, and Haibo Zhang.**  
-[PDF](https://link.springer.com/article/10.1007/s10439-022-03185-1)
-
-**Multi-scale learning approach for accurate ischemic stroke lesion segmentation.** [30th June, 2024].  
-**Yu, Wen, Zhenming Liu, Lijun Zhang, and Qing Zeng.**  
-[PDF](https://www.sciencedirect.com/science/article/pii/S0010482523001894?casa_token=8Q1Lsb0GDUAAAAAA:AxNDbGUBFwQv5OUfRgJ2FJvOwArwCSxGf2IYUZRW9X5UuCzo4hPy9UtFwDQsYDsPWeCw5cEn26s)
-
-**A novel deep learning model for ischemic stroke lesion segmentation on CT images.** [4th July, 2024].  
-**Jiang, Hui, Xiaoyang Xu, Yuehong Ma, and Jie Zhang.**  
-[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.27002)
-
-**Deep learning-based automated segmentation of stroke lesions in brain MRI images.** [7th July, 2024].  
-**Chen, Jinyu, Lin He, Weiwei Du, and Yuan Fang.**  
-[PDF](https://www.sciencedirect.com/science/article/pii/S001048252200676X?casa_token=9BGvEjs1rX4AAAAA:AeyBBEGf8vAsLKk1_5dz9LU2HSUS-V36ztKxY2mpTXVOavSLmN8y1STdhk3AmzIs7u4o9JqJglI)
-
+- [Segmentation of stroke lesions using transformers-augmented MRI analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26803)  
+- [Application of Deep Learning Method on Ischemic Stroke Lesion Segmentation](https://link.springer.com/article/10.1007/s12204-021-2273-9)
+- [Brain stroke classification and segmentation using encoder-decoder based deep convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S001048252200676Xcasa_token=qCB2Xuh7r5wAAAAA:yPcNbf6uZ_mqa3AlEqAmCbcbGD8ijBN93x7OigP45qcMnPqJLm2prJavU3sroSyDxo6HXdtPGLg)
+- [CSNet: A new DeepNet framework for ischemic stroke lesion segmentation](https://www.sciencedirect.com/science/article/pii/S0169260719324022?casa_token=rAO9pyYBzUgAAAAA:U1srWb2UdQHvErvIg-FJV8bIPEZettF0sB1KkeeXoBie4vpaFC7VEBrjvsJscOGXXzlXVJhShUI)
+- [Improvement of automatic ischemic stroke lesion segmentation in CT perfusion maps using a learned deep neural network](https://www.sciencedirect.com/science/article/pii/S0010482521006430?casa_token=P8QiEV4Rr3YAAAAA:wA60yke6QBMfRdHk9JIEQFUcW88N7EJzQTg3YHj-ARjpe-IEfd8BdjFANLll1Et-n0eXoPXpDMM)
+- [Deep learning-based detection and segmentation of diffusion abnormalities in acute ischemic stroke](https://www.nature.com/articles/s43856-021-00062-8)
+- [Internet of Medical Things—Based on Deep Learning Techniques for Segmentation of Lung and Stroke Regions in CT Scans](https://ieeexplore.ieee.org/abstract/document/9066845)
+- [Deep Learning for Hemorrhagic Lesion Detection and Segmentation on Brain CT Images](https://ieeexplore.ieee.org/abstract/document/9210782/)
+- [Brain stroke lesion segmentation using consistent perception generative adversarial network](https://link.springer.com/article/10.1007/s00521-021-06816-8)
+- [A fast and fully-automated deep-learning approach for accurate hemorrhage segmentation and volume quantification in non-contrast whole-head CT](https://www.nature.com/articles/s41598-020-76459-7)
+- [Attention convolutional neural network for accurate segmentation and quantification of lesions in ischemic stroke disease](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301559)
+- [Acute and sub-acute stroke lesion segmentation from multimodal MRI](https://www.sciencedirect.com/science/article/abs/pii/S0169260719305899)
+- [Deep convolutional neural network for automatically segmenting acute ischemic stroke lesion in multi-modality MRI](https://link.springer.com/article/10.1007/s00521-019-04096-x)
+- [Machine Learning for Detecting Early Infarction in Acute Stroke with Non–Contrast-enhanced CT](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191193)
+- [EIS-Net: Segmenting early infarct and scoring ASPECTS simultaneously on non-contrast CT of patients with acute ischemic stroke](https://www.sciencedirect.com/science/article/abs/pii/S136184152100030X)
+- [Brain SegNet: 3D local refinement network for brain lesion segmentation](https://link.springer.com/article/10.1186/s12880-020-0409-2)
+- [RFDCR: Automated brain lesion segmentation using cascaded random forests with dense conditional random fields](https://www.sciencedirect.com/science/article/pii/S1053811920301075)
+- [Brain tumor detection and classification using machine learning: a comprehensive survey](https://link.springer.com/article/10.1007/s40747-021-00563-y)
+- [Multi-Receptive-Field CNN for Semantic Segmentation of Medical Images](https://ieeexplore.ieee.org/abstract/document/9166618)
+- [DeepNeuro: an open-source deep learning toolbox for neuroimaging](https://link.springer.com/article/10.1007/s12021-020-09477-5)
+- [Multi-Feature Analysis for Automated Brain Stroke Classification Using Weighted Gaussian Naïve Bayes Classifier](https://www.worldscientific.com/doi/abs/10.1142/S0218126621501784)
+- [Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study](https://arxiv.org/html/2403.17177v1)
 
 
 
 ## Review papers 
 - [Deep learning models for ischemic stroke lesion segmentation in medical images: A survey](https://www.sciencedirect.com/science/article/pii/S0010482524005936)
 - [Stroke Lesion Segmentation and Deep Learning: A Comprehensive Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10813717/)
-

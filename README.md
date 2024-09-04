@@ -5,7 +5,7 @@
 
 
 
-Authors: [Mohamed Mabrok](https://scholar.google.com/citations?user=DW4268EAAAAJ&hl=en&authuser=2),Yalda Zafari, [Mostafa Mabrok]() and [Essam Rashed](https://erashed.weebly.com/). 
+Authors: [Mohamed Mabrok](https://scholar.google.com/citations?user=DW4268EAAAAJ&hl=en&authuser=2), [Yalda Zafari](), [Mostafa Mabrok](https://github.com/Mostafamabrok) and [Essam Rashed](https://erashed.weebly.com/). 
 </p>
 
 This is a comprehensive review of the use of AI in stroke segmentation. Here, we include links to and summaries of datasets, papers , and model architectures made for the development stroke segmentation using AI. 

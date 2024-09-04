@@ -1,6 +1,8 @@
 # StrokeAI
+
+![image](https://github.com/user-attachments/assets/dc78b2e2-3dd9-49cb-bd87-80c51ad6aa3a)
+
 This is a comprehensive review of the use of AI in stroke segmentation. Here, we include links to and summaries of datasets, papers , and model architectures made for the development stroke segmentation using AI. 
-![image](https://github.com/user-attachments/assets/e5063933-6b6d-40ef-9f6f-ee818473049f)
 
 ## Datasets
 ![image](https://github.com/user-attachments/assets/734ac193-45b0-431c-b4dd-e248367491d3)

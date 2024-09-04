@@ -13,7 +13,9 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 
 ## Index
 - [Datasets](#Datasets)
+- [Architectures](#Architectures)
 - [Papers](#Papers)
+- [Review Papers](#review-papers)
 
 ## Datasets
 ![image](https://github.com/user-attachments/assets/3df2cb11-cb81-4d5d-a727-68a9ec5f227d)
@@ -182,6 +184,6 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 
 
 
-## Review papers 
+## Review Papers 
 - [Deep learning models for ischemic stroke lesion segmentation in medical images: A survey](https://www.sciencedirect.com/science/article/pii/S0010482524005936)
 - [Stroke Lesion Segmentation and Deep Learning: A Comprehensive Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10813717/)

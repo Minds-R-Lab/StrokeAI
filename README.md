@@ -1,9 +1,16 @@
-# StrokeAI
+<div align="center">
+<h1> StrokeAI </h1>
 
-![image](https://github.com/user-attachments/assets/dc78b2e2-3dd9-49cb-bd87-80c51ad6aa3a)
+</div>
+
+
+
+Authors: [Mohamed Mabrok](https://scholar.google.com/citations?user=DW4268EAAAAJ&hl=en&authuser=2),Yalda Zafari, [Mostafa Mabrok]() and [Essam Rashed](https://erashed.weebly.com/). 
+</p>
 
 This is a comprehensive review of the use of AI in stroke segmentation. Here, we include links to and summaries of datasets, papers , and model architectures made for the development stroke segmentation using AI. 
 
+![image](https://github.com/user-attachments/assets/dc78b2e2-3dd9-49cb-bd87-80c51ad6aa3a)
 
 ## Datasets
 - [ISLES Challenge Datset](https://isles22.grand-challenge.org/dataset/), A collection of medical imaging data focused on the segmentation of ischemic stroke lesions in brain MRI scans. It is widely used for developing and evaluating machine learning models in the field of medical image analysis, particularly for stroke diagnosis and treatment planning.
@@ -15,8 +22,6 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 - [TopCoW Challenge Data](https://topcow24.grand-challenge.org/data/) The challenge data cohort was composed of patients admitted to the Stroke Center of the University Hospital Zurich (USZ) in 2018 and 2019. The inclusion criteria for the challenge data were: 1) both MRA and CTA scans were available for that patient; 2) at least the MRA or CTA allowed for an assessment of the CoW anatomy. The patients of the challenge cohort were admitted for or recovering from a stroke-related neurological disorder, including ischemic stroke, transient ischemic attack, stroke mimic, retinal infarct or amaurosis fugax, intracerebral hemorrhage, and cerebral sinus vein thrombosis.
 
 ## Architectures
-![image](https://github.com/user-attachments/assets/101b9f48-62f6-484f-a603-1222a86e6249)
-
 - [DeepMedic](https://github.com/deepmedic/deepmedic)  A deep multi-scale 3D convolutional neural network (CNN) designed for brain lesion segmentation, including stroke lesions.
 - [ADNET](https://github.com/biomedical-data-analysis-laboratory/adnet-for-ais-segmentation) "Self-supervised training mechanism that is tailored to the task of ischemic stroke lesion segmentation by exploiting color-coded parametric maps"
 - [SEAN](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_41) A symmetry enhanced attention network for acute ischemic infarct segmentation. "Efficiently captures context information from the opposite side of the image by estimating long-range dependencies."

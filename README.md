@@ -15,32 +15,76 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 ## Datasets
 ![image](https://github.com/user-attachments/assets/3df2cb11-cb81-4d5d-a727-68a9ec5f227d)
 
-- [ISLES Challenge Datset](https://isles22.grand-challenge.org/dataset/), A collection of medical imaging data focused on the segmentation of ischemic stroke lesions in brain MRI scans. It is widely used for developing and evaluating machine learning models in the field of medical image analysis, particularly for stroke diagnosis and treatment planning.
-- [AISD Dataset](https://github.com/GriffinLiang/AISD) Contains 397 Non-Contrast-enhanced CT (NCCT) scans of acute ischemic stroke with the interval from symptom onset to CT less than 24 hours.
-- [ATLAS Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/atlas.html), Anatomical Tracings of Lesions After Stroke, A dataset containing manual segmentations of stroke lesions on T1-weighted MRI scans from chronic stroke patients.
-- [BRATS Dataset](https://www.med.upenn.edu/cbica/brats2020/data.html), A dataset mostly utilized for segmenting brain tumors, but is sometimes use for stroke segmentation.
-- [NIfTI-1](https://nifti.nimh.nih.gov/nifti-1/data), Neuroimaging Informatics Technology Initiative
-- [APIS](https://arxiv.org/abs/2309.15243) provides images of two modalities, NCCT and ADC, with the aim of exploiting the complementary information between CT and ADC to improve the segmentation of ischemic stroke lesions.
-- [TopCoW Challenge Data](https://topcow24.grand-challenge.org/data/) The challenge data cohort was composed of patients admitted to the Stroke Center of the University Hospital Zurich (USZ) in 2018 and 2019. The inclusion criteria for the challenge data were: 1) both MRA and CTA scans were available for that patient; 2) at least the MRA or CTA allowed for an assessment of the CoW anatomy. The patients of the challenge cohort were admitted for or recovering from a stroke-related neurological disorder, including ischemic stroke, transient ischemic attack, stroke mimic, retinal infarct or amaurosis fugax, intracerebral hemorrhage, and cerebral sinus vein thrombosis.
+- [ISLES Challenge Dataset](https://isles22.grand-challenge.org/dataset/)  
+  A collection of medical imaging data focused on the segmentation of ischemic stroke lesions in brain MRI scans. It is widely used for developing and evaluating machine learning models in the field of medical image analysis, particularly for stroke diagnosis and treatment planning.
+
+- [AISD Dataset](https://github.com/GriffinLiang/AISD)  
+  Contains 397 non-contrast-enhanced CT (NCCT) scans of acute ischemic stroke with the interval from symptom onset to CT less than 24 hours.
+
+- [ATLAS Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)  
+  Anatomical Tracings of Lesions After Stroke. A dataset containing manual segmentations of stroke lesions on T1-weighted MRI scans from chronic stroke patients.
+
+- [BRATS Dataset](https://www.med.upenn.edu/cbica/brats2020/data.html)  
+  A dataset mostly utilized for segmenting brain tumors but is sometimes used for stroke segmentation.
+
+- [NIfTI-1](https://nifti.nimh.nih.gov/nifti-1/data)  
+  Neuroimaging Informatics Technology Initiative.
+
+- [APIS](https://arxiv.org/abs/2309.15243)  
+  Provides images of two modalities, NCCT and ADC, with the aim of exploiting the complementary information between CT and ADC to improve the segmentation of ischemic stroke lesions.
+
+- [TopCoW Challenge Data](https://topcow24.grand-challenge.org/data/)  
+  The challenge data cohort was composed of patients admitted to the Stroke Center of the University Hospital Zurich (USZ) in 2018 and 2019. The inclusion criteria for the challenge data were: 1) both MRA and CTA scans were available for that patient; 2) at least the MRA or CTA allowed for an assessment of the CoW anatomy. The patients of the challenge cohort were admitted for or recovering from a stroke-related neurological disorder, including ischemic stroke, transient ischemic attack, stroke mimic, retinal infarct or amaurosis fugax, intracerebral hemorrhage, and cerebral sinus vein thrombosis.
+
 
 ## Architectures
 ![image](https://github.com/user-attachments/assets/85744e9a-a3a7-4e0d-885c-3a530c7bcd8d)
 
-- [DeepMedic](https://github.com/deepmedic/deepmedic)  A deep multi-scale 3D convolutional neural network (CNN) designed for brain lesion segmentation, including stroke lesions.
-- [ADNET](https://github.com/biomedical-data-analysis-laboratory/adnet-for-ais-segmentation) "Self-supervised training mechanism that is tailored to the task of ischemic stroke lesion segmentation by exploiting color-coded parametric maps"
-- [SEAN](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_41) A symmetry enhanced attention network for acute ischemic infarct segmentation. "Efficiently captures context information from the opposite side of the image by estimating long-range dependencies."
-- [VCANET](https://github.com/Darko28/VCA-Net) "Presents a more brain alike model which mimics the anatomical structure of the human visual cortex."
-- [SUNET](https://github.com/NIC-VICOROB/SUNet-architecture) A deep learning architecture for acute stroke lesion segmentation and outcome prediction in multimodal MRI.
-- [XNET](https://github.com/Andrewsher/X-Net) A convoluntional nerual network for "Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies".
-- [UNET](https://github.com/zhixuhao/unet) A Convolutional network architecture for fast and precise segmentation of images.
-- [Attention UNET](https://arxiv.org/abs/1804.03999) An extension of U-Net that incorporates attention mechanisms to focus on the most relevant regions in the image, improving the accuracy of stroke segmentation.
-- [VNET](https://arxiv.org/abs/1606.04797) A 3D variant of U-Net designed for volumetric medical imaging segmentation.
-- [ResNet](https://arxiv.org/abs/1512.03385) A deep neural network architecture that uses residual learning with shortcut connections to effectively train very deep networks. (Has variants such as ResU-Net)
-- [Mask DINO](https://github.com/IDEA-Research/MaskDINO) This repository is the official implementation of the Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation (DINO pronounced `daɪnoʊ' as in dinosaur). Our code is based on detectron2. detrex version is opensource simultaneously.
-- [DRA-NET](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301559) "An advanced deep CNN architecture that aims to improve predictive performance and that allows for accurate and simultaneous prediction of both lesion types."
-- [W-NET](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011399) "A boundary-enhanced segmentation network for stroke lesions"
-- [SAN-NET](https://www.sciencedirect.com/science/article/pii/S0010482523001828) "Learning generalization to unseen sites for stroke lesion segmentation with self-adaptive normalization"
-- [SIGN](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_9) "Stroke Lesion Segmentation from Low-Quality and Few-Shot MRIs via Similarity-Weighted Self-ensembling Framework"
+- [DeepMedic](https://github.com/deepmedic/deepmedic)  
+  A deep multi-scale 3D convolutional neural network (CNN) designed for brain lesion segmentation, including stroke lesions.
+
+- [ADNET](https://github.com/biomedical-data-analysis-laboratory/adnet-for-ais-segmentation)  
+  Self-supervised training mechanism that is tailored to the task of ischemic stroke lesion segmentation by exploiting color-coded parametric maps.
+
+- [SEAN](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_41)  
+  A symmetry enhanced attention network for acute ischemic infarct segmentation. Efficiently captures context information from the opposite side of the image by estimating long-range dependencies.
+
+- [VCANET](https://github.com/Darko28/VCA-Net)  
+  Presents a more brain alike model which mimics the anatomical structure of the human visual cortex.
+
+- [SUNET](https://github.com/NIC-VICOROB/SUNet-architecture)  
+  A deep learning architecture for acute stroke lesion segmentation and outcome prediction in multimodal MRI.
+
+- [XNET](https://github.com/Andrewsher/X-Net)  
+  A convolutional neural network for segmentation based on depthwise separable convolution and long-range dependencies.
+
+- [UNET](https://github.com/zhixuhao/unet)  
+  A convolutional network architecture for fast and precise segmentation of images.
+
+- [Attention UNET](https://arxiv.org/abs/1804.03999)  
+  An extension of U-Net that incorporates attention mechanisms to focus on the most relevant regions in the image, improving the accuracy of stroke segmentation.
+
+- [VNET](https://arxiv.org/abs/1606.04797)  
+  A 3D variant of U-Net designed for volumetric medical imaging segmentation.
+
+- [ResNet](https://arxiv.org/abs/1512.03385)  
+  A deep neural network architecture that uses residual learning with shortcut connections to effectively train very deep networks. (Has variants such as ResU-Net)
+
+- [Mask DINO](https://github.com/IDEA-Research/MaskDINO)  
+  This repository is the official implementation of the Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation (DINO pronounced `daɪnoʊ' as in dinosaur). Our code is based on detectron2. detrex version is opensource simultaneously.
+
+- [DRA-NET](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301559)  
+  An advanced deep CNN architecture that aims to improve predictive performance and that allows for accurate and simultaneous prediction of both lesion types.
+
+- [W-NET](https://www.sciencedirect.com/science/article/abs/pii/S0957417423011399)  
+  A boundary-enhanced segmentation network for stroke lesions.
+
+- [SAN-NET](https://www.sciencedirect.com/science/article/pii/S0010482523001828)  
+  Learning generalization to unseen sites for stroke lesion segmentation with self-adaptive normalization.
+
+- [SIGN](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_9)  
+  Stroke lesion segmentation from low-quality and few-shot MRIs via similarity-weighted self-ensembling framework.
+
 
   
 ## Papers

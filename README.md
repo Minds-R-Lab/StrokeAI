@@ -9,7 +9,9 @@ Authors: [Mohamed Mabrok](https://scholar.google.com/citations?user=DW4268EAAAAJ
 
 This is a comprehensive review of the use of AI in stroke segmentation. Here, we include links to and summaries of datasets, papers , and model architectures made for the development stroke segmentation using AI. 
 
-![image](https://github.com/user-attachments/assets/dc78b2e2-3dd9-49cb-bd87-80c51ad6aa3a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc78b2e2-3dd9-49cb-bd87-80c51ad6aa3a">
+</p>
 
 ## Index
 - [Datasets](#Datasets)
@@ -18,7 +20,7 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 - [Review Papers](#review-papers)
 
 ## Datasets
-![image](https://github.com/user-attachments/assets/3df2cb11-cb81-4d5d-a727-68a9ec5f227d)
+<img src="https://github.com/user-attachments/assets/3df2cb11-cb81-4d5d-a727-68a9ec5f227d" width="350" height="400">
 
 - [ISLES Challenge Dataset](https://isles22.grand-challenge.org/dataset/)  
   A collection of medical imaging data focused on the segmentation of ischemic stroke lesions in brain MRI scans. It is widely used for developing and evaluating machine learning models in the field of medical image analysis, particularly for stroke diagnosis and treatment planning.

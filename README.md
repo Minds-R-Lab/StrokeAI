@@ -45,91 +45,91 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
   
 ## Papers
 **Segmentation of stroke lesions using transformers-augmented MRI analysis.** [24th April, 2024].  
-**Zhang, Hanwei, Ying Zhu, Dan Wang, Lijun Zhang, Tianxiang Chen, Ziyang Wang, and Zi Ye.**  
+*RamshaAhmed, AamnaAlShehhi, NaoufelWerghi, MohamedLSeghier*  
 [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26803)
 
 **Application of Deep Learning Method on Ischemic Stroke Lesion Segmentation.** [29th April, 2024].  
-**Xu, Rui, Shu Yang, Yihui Wang, Bo Du, and Hao Chen.**  
+*YueZhang, ShijieLiu, ChunlaiLi, JianyuWang*  
 [PDF](https://link.springer.com/article/10.1007/s12204-021-2273-9)
 
 **Brain stroke classification and segmentation using encoder-decoder based deep convolutional neural networks.** [7th May, 2024].  
-**Liu, Xiao, Chenxu Zhang, and Lei Zhang.**  
-[PDF](https://www.sciencedirect.com/science/article/pii/S001048252200676Xcasa_token=qCB2Xuh7r5wAAAAA:yPcNbf6uZ_mqa3AlEqAmCbcbGD8ijBN93x7OigP45qcMnPqJLm2prJavU3sroSyDxo6HXdtPGLg)
+**SercanYalçın, HüseyinVural**  
+[PDF](https://pubmed.ncbi.nlm.nih.gov/36055156/)
 
 **CSNet: A new DeepNet framework for ischemic stroke lesion segmentation.** [14th May, 2024].  
-**Zhu, Qinfeng, Yuan Fang, Yuanzhi Cai, Cheng Chen, and Lei Fan.**  
+**AmishKumar, NehaUpadhyay, PalashGhosal, TamalChowdhury, DipayanDas, AmritenduMukherjee, DebashisNandi.**  
 [PDF](https://www.sciencedirect.com/science/article/pii/S0169260719324022?casa_token=rAO9pyYBzUgAAAAA:U1srWb2UdQHvErvIg-FJV8bIPEZettF0sB1KkeeXoBie4vpaFC7VEBrjvsJscOGXXzlXVJhShUI)
 
 **Improvement of automatic ischemic stroke lesion segmentation in CT perfusion maps using a learned deep neural network.** [24th April, 2024].  
-**Patro, Badri Narayana, and Vijay Srinivas Agneeswaran.**  
+**MohsenSoltanpour, RussGreiner, PierreBoulanger, BrianBuck**  
 [PDF](https://www.sciencedirect.com/science/article/pii/S0010482521006430?casa_token=P8QiEV4Rr3YAAAAA:wA60yke6QBMfRdHk9JIEQFUcW88N7EJzQTg3YHj-ARjpe-IEfd8BdjFANLll1Et-n0eXoPXpDMM)
 
 **Deep learning-based detection and segmentation of diffusion abnormalities in acute ischemic stroke.** [5th June, 2024].  
-**Moein Heidari, Sina Ghorbani Kolahi, Sanaz Karimijafarbigloo, Bobby Azad, Afshin Bozorgpour, Soheila Hatami, Reza Azad, Ali Diba, Ulas Bagci, Dorit Merhof, Ilker Hacihaliloglu.**  
+**ChinFuLiu, JohnnyHsu, XinXu, SandhyaRamachandran, VictorWang, MichaelIMiller, ArgyeEHillis, AndreiaVFaria, TheSTIRandVISTAImaginginvestigators**  
 [PDF](https://www.nature.com/articles/s43856-021-00062-8)
 
 **Internet of Medical Things—Based on Deep Learning Techniques for Segmentation of Lung and Stroke Regions in CT Scans.** [12th June, 2024].  
-**Liang, Tiancheng, Shuai Zhao, Yunxiang Li, and Xin Li.**  
+**TaoHan, VirgíniaXavierNunes, LuísFabrícioDeFreitasSouza, AdriellGomesMarques, IágsonCarlosLimaSilva, MarcosAurélioAraujoFerreiraJunior, JinghuaSun, PedroPRebouçasFilho**  
 [PDF](https://ieeexplore.ieee.org/abstract/document/9066845)
 
 **Deep Learning for Hemorrhagic Lesion Detection and Segmentation on Brain CT Images.** [19th June, 2024].  
-**Cai, Cheng, Weiwei Du, Wenyue Xu, and Yuan Fang.**  
+**LuLi, MengWei, BoLiu, KunakornAtchaneeyasakul, FugenZhou, ZehaoPan, ShimranAKumar, JasonYZhang, Yuehua**  
 [PDF](https://ieeexplore.ieee.org/abstract/document/9210782/)
 
 **Brain stroke lesion segmentation using consistent perception generative adversarial network.** [22nd June, 2024].  
-**Zhou, Xiang, Tianxiang Chen, Weiwei Du, and Jianwei Yin.**  
+**ShuqiangWang, ZhuoChen, SenrongYou, BingchuanWang, YanyanShen, BaiyingLei**  
 [PDF](https://link.springer.com/article/10.1007/s00521-021-06816-8)
 
 **A fast and fully-automated deep-learning approach for accurate hemorrhage segmentation and volume quantification in non-contrast whole-head CT.** [28th June, 2024].  
-**Li, Zheng, Lijun Zhang, Tianxiang Chen, and Haibo Zhang.**  
+**AliArab, BettyChinda, GeorgeMedvedev, WilliamSiu, HuiGuo, TaoGu, SylvainMoreno, GhassanHamarneh, MartinEster, XiaoweiSong**  
 [PDF](https://www.nature.com/articles/s41598-020-76459-7)
 
 **Attention convolutional neural network for accurate segmentation and quantification of lesions in ischemic stroke disease.** [30th June, 2024].  
-**Yu, Wen, Zhenming Liu, Lijun Zhang, and Qing Zeng.**  
+**LiangliangLiu, LukaszKurgan, FangXiangWu, JianxinWang**  
 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301559)
 
 **Acute and sub-acute stroke lesion segmentation from multimodal MRI.** [4th July, 2024].  
-**Jiang, Hui, Xiaoyang Xu, Yuehong Ma, and Jie Zhang.**  
+**AlbertClèrigues, SergiValverde, JoseBernal, JordiFreixenet, ArnauOliver, XavierLladó**  
 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0169260719305899)
 
 **Deep convolutional neural network for automatically segmenting acute ischemic stroke lesion in multi-modality MRI.** [7th July, 2024].  
-**Chen, Jinyu, Lin He, Weiwei Du, and Yuan Fang.**  
+**LiangliangLiu, ShaowuChen, FuhaoZhang, FangXiangWu, YiPan, JianxinWang**  
 [PDF](https://link.springer.com/article/10.1007/s00521-019-04096-x)
 
 **Machine Learning for Detecting Early Infarction in Acute Stroke with Non–Contrast-enhanced CT.** [12th July, 2024].  
-**Zhu, Qinfeng, Yuan Fang, Yuanzhi Cai, Cheng Chen, and Lei Fan.**  
+**WuQiu, HulinKuang, ErickaTeleg, JohannaMOspel, SungIlSohn, MohammedAlmekhlafi, MayankGoyal, MichaelDHill, AndrewMDemchuk, BijoyKMendon**  
 [PDF](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191193)
 
 **EIS-Net: Segmenting early infarct and scoring ASPECTS simultaneously on non-contrast CT of patients with acute ischemic stroke.** [19th July, 2024].  
-**Cai, Cheng, Weiwei Du, Wenyue Xu, and Yuan Fang.**  
+**HulinKuang, BijoyKMenon, SungILSohn, WuQiu**  
 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S136184152100030X)
 
 **Brain SegNet: 3D local refinement network for brain lesion segmentation.** [22nd July, 2024].  
-**Zhou, Xiang, Tianxiang Chen, Weiwei Du, and Jianwei Yin.**  
+**XiaojunHu, WeijianLuo, JiliangHu, ShengGuo, WeilinHuang, MatthewRScott, RolandWiest, MichaelDahlweid, MauricioReyes**  
 [PDF](https://link.springer.com/article/10.1186/s12880-020-0409-2)
 
 **RFDCR: Automated brain lesion segmentation using cascaded random forests with dense conditional random fields.** [28th July, 2024].  
-**Li, Zheng, Lijun Zhang, Tianxiang Chen, and Haibo Zhang.**  
+**GaoxiangChen, QunLi, FuqianShi, IslemRekik, ZhifangPan**  
 [PDF](https://www.sciencedirect.com/science/article/pii/S1053811920301075)
 
 **Brain tumor detection and classification using machine learning: a comprehensive survey.** [30th July, 2024].  
-**Yu, Wen, Zhenming Liu, Lijun Zhang, and Qing Zeng.**  
+**JavariaAmin, MuhammadSharif, AnandakumarHaldorai, MussaratYasmin, RameshSundarNayak**  
 [PDF](https://link.springer.com/article/10.1007/s40747-021-00563-y)
 
 **Multi-Receptive-Field CNN for Semantic Segmentation of Medical Images.** [5th August, 2024].  
-**Jiang, Hui, Xiaoyang Xu, Yuehong Ma, and Jie Zhang.**  
+**LiangliangLiu, FangXiangWu, YuPingWang, JianxinWang**  
 [PDF](https://ieeexplore.ieee.org/abstract/document/9166618)
 
 **DeepNeuro: an open-source deep learning toolbox for neuroimaging.** [12th August, 2024].  
-**Chen, Jinyu, Lin He, Weiwei Du, and Yuan Fang.**  
+**AndrewBeers, JamesBrown, KenChang, KatharinaHoebel, JayPatel, KInaLy, SaraMTolaney, PriscillaBrastianos, BruceRosen, ElizabethRGerstner, JayashreeKalpathyCramer**  
 [PDF](https://link.springer.com/article/10.1007/s12021-020-09477-5)
 
 **Multi-Feature Analysis for Automated Brain Stroke Classification Using Weighted Gaussian Naïve Bayes Classifier.** [19th August, 2024].  
-**Zhou, Xiang, Tianxiang Chen, Weiwei Du, and Jianwei Yin.**  
+**SJayachitra, APrasanth**  
 [PDF](https://www.worldscientific.com/doi/abs/10.1142/S0218126621501784)
 
 **Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study.** [22nd August, 2024].  
-**Li, Zheng, Lijun Zhang, Tianxiang Chen, and Haibo Zhang.**  
+**AhmedSolimana, YousifYousifa, AhmedIbrahima, YaldaZafariGhadima, EssamARashed, MohamedMabrok**  
 [PDF](https://arxiv.org/html/2403.17177v1)
 
 

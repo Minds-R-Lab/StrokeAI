@@ -18,10 +18,16 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 - Our review paper on Artificial Intelligence Review: [Transformers-based architectures for stroke segmentation: a review](https://link.springer.com/article/10.1007/s10462-024-10900-5)
   
 ## Index
+- [Review Papers](#review-papers)
 - [Datasets](#datasets)
 - [Architectures](#architectures)
 - [Papers](#papers)
-- [Review Papers](#review-papers)
+
+## Review Papers 
+- [Transformers-based architectures for stroke segmentation: a review](https://link.springer.com/article/10.1007/s10462-024-10900-5)
+- [Deep learning models for ischemic stroke lesion segmentation in medical images: A survey](https://www.sciencedirect.com/science/article/pii/S0010482524005936)
+- [Stroke Lesion Segmentation and Deep Learning: A Comprehensive Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10813717/)
+- [Automatic brain ischemic stroke segmentation with deep learning: a review](https://www.sciencedirect.com/science/article/pii/S2772528623000304)
 
 ## Datasets
 <img src="https://github.com/user-attachments/assets/3df2cb11-cb81-4d5d-a727-68a9ec5f227d" width="350" height="400">
@@ -190,6 +196,4 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 
 
 
-## Review Papers 
-- [Deep learning models for ischemic stroke lesion segmentation in medical images: A survey](https://www.sciencedirect.com/science/article/pii/S0010482524005936)
-- [Stroke Lesion Segmentation and Deep Learning: A Comprehensive Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10813717/)
+

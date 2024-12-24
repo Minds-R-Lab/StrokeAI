@@ -1,5 +1,5 @@
 <div align="center">
-<h1> StrokeAI </h1>
+<h1> AI for Stroke Segmentation </h1>
 
 </div>
 
@@ -13,10 +13,14 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
   <img src="https://github.com/user-attachments/assets/d843d6b8-2e1c-4701-b154-cec89fef2972">
 </p>
 
+## Updates
+- Our paper entitled "On the Challenges and Perspectives of Stroke Segmentation using AI" presented at FMLDS 2024 won the Best Technical Paper Award. :trophy:
+- Our review paper on Artificial Intelligence Review: [Transformers-based architectures for stroke segmentation: a review](https://link.springer.com/article/10.1007/s10462-024-10900-5)
+  
 ## Index
-- [Datasets](#Datasets)
-- [Architectures](#Architectures)
-- [Papers](#Papers)
+- [Datasets](#datasets)
+- [Architectures](#architectures)
+- [Papers](#papers)
 - [Review Papers](#review-papers)
 
 ## Datasets
@@ -32,7 +36,7 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
   Anatomical Tracings of Lesions After Stroke. A dataset containing manual segmentations of stroke lesions on T1-weighted MRI scans from chronic stroke patients.
 
 - [BRATS Dataset](https://www.med.upenn.edu/cbica/brats2020/data.html)  
-  A dataset mostly utilized for segmenting brain tumors but is sometimes used for stroke segmentation.
+  A dataset mostly utilized for segmenting brain tumors but can be used for pre-training models for stroke segmentation.
 
 - [NIfTI-1](https://nifti.nimh.nih.gov/nifti-1/data)  
   Neuroimaging Informatics Technology Initiative.

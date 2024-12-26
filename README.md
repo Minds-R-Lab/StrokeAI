@@ -4,7 +4,6 @@
 </div>
 
 
-Authors: [Mohamed Mabrok](https://scholar.google.com/citations?user=DW4268EAAAAJ&hl=en&authuser=2), [Yalda Zafari](), [Mostafa Mabrok](https://github.com/Mostafamabrok) and [Essam Rashed](https://erashed.weebly.com/). 
 </p>
 
 This is a comprehensive review of the use of AI in stroke segmentation. Here, we include links to and summaries of datasets, papers , and model architectures made for the development stroke segmentation using AI. 
@@ -16,6 +15,20 @@ This is a comprehensive review of the use of AI in stroke segmentation. Here, we
 ## Updates
 - Our paper entitled "On the Challenges and Perspectives of Stroke Segmentation using AI" presented at FMLDS 2024 won the Best Technical Paper Award. :trophy:
 - Our review paper on Artificial Intelligence Review: [Transformers-based architectures for stroke segmentation: a review](https://link.springer.com/article/10.1007/s10462-024-10900-5)
+
+# Citation:
+```
+@article{zafari2024transformers,
+  title={Transformers-based architectures for stroke segmentation: A review},
+  author={Zafari-Ghadim, Yalda and Rashed, Essam A and Mohamed, Amr and Mabrok, Mohamed},
+  journal={Artificial Intelligence Review},
+  volume={57},
+  number={11},
+  pages={307},
+  year={2024},
+  publisher={Springer}
+}
+```
   
 ## Index
 - [Review Papers](#review-papers)
